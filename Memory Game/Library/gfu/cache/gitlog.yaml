@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2023-03-13T05:37:20.629-04:00
+  initializedAtString: 2023-03-13T05:37:20.629-04:00
+  log:
+  - commitID: fab48a55fe7a7e354326ac0cd1543b2a90fea490
+    mergeA: 
+    mergeB: 
+    authorName: BinghongLiu
+    authorEmail: 112732580+BinghongLiu@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2023-03-13T05:26:56.000-04:00
+    commitTimeString: 2023-03-13T05:26:56.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\liubi\Desktop\Memory-Game\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\liubi\Desktop\Memory-Game\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
